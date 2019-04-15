@@ -13,7 +13,9 @@ The first line has ***n,m*** - the number of rooms and number of passages in the
 ### Constraints
 
 ***1 <= n <= 10^4***
+
 ***0 <= m <= 10^6***
+
 ***a,b in range [1,n]***
 
 ### Output Format
